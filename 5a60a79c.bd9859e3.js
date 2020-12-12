@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{68:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"defi","name":"defi","count":3,"permalink":"/blog/tags/defi"}')}}]);
